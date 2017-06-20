@@ -8,11 +8,11 @@
 
     <?php
 
-    $i = 100;
+    $i = 0;
 
     while( $i < 15 )
     {
-      echo $i .  '<br />';
+      echo 'On y arrive presque' . '<br />';
       $i++;
     }
 
