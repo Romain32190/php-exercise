@@ -1,7 +1,7 @@
 <?php
-function chaine_aleatoire()
+function chaine()
 {
     $lettre= 'abcdefghijklmnpqrstuvwxyzABCDEFGHIJKLMNPQRSTUVWXYZ0123456789';
     return $lettre;
 }
-echo chaine_aleatoire();
+echo chaine();

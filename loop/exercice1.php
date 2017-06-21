@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>PHP</title>
-  </head>
-  <body>
-    <h1>Hello world!</h1>
-
-    <?php
+  <?php
     $i = 0;
 
     while( $i < 11 )
@@ -16,7 +7,3 @@
       $i++;
     }
     ?>
-
-
-  </body>
-</html>
