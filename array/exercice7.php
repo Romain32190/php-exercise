@@ -7,6 +7,8 @@ $tableau = array(
 "80" => "Somme",
 "02" => "Aisne",
 "60" => "Oise",
-"Marne" => "Reims",
+"51" => "Reims",
 
 );
+
+?>
